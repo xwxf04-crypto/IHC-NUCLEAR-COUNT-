@@ -1,0 +1,7 @@
+{
+  "name": "IHC Nuclei Counter",
+  "description": "An AI-powered web application to count positive and negative nuclei in Immunohistochemistry (IHC) images and calculate the positive cell ratio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
